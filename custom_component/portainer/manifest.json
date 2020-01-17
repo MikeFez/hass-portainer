@@ -1,0 +1,8 @@
+{
+  "domain": "portainer",
+  "name": "Portainer",
+  "documentation": "https://github.com/MikeFez/home-assistant-custom-components/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": ["MikeFez"],
+  "requirements": []
+}
