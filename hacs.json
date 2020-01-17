@@ -1,0 +1,6 @@
+{
+    "name": "Portainer",
+    "render_readme": "true",
+    "domains": ["sensor", "service"]
+  }
+  
